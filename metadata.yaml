@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8693
     wikipedia: http://en.wikipedia.org/wiki/Nora_Archibald_Smith
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19461#Tales-of-Wonder-Every-Child-Should-Know
 gutenberg_bookshelf:
 - Children's Literature
 - Children's Anthologies
